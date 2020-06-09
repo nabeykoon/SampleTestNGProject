@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97517696-d98f-4272-a2d9-4f38173340b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cgcSOipLJ2bWC1qnGBwjhEouYG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/listeners.xml">
+    <configuration name="TestNGRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestNGRunner.TestNGRunner" />
+      <module name="SampleTestngProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/nabey/OneDrive/Repos/SampleTestngProject/annotation.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SampleTestngProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/annotation.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/nabey/OneDrive/Repos/SampleTestngProject/listeners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SampleTestngProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/listeners.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/nabey/OneDrive/Repos/SampleTestngProject/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SampleTestngProject" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListenerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SampleTestngProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="listeners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="listeners" />
+      <option name="MAIN_CLASS_NAME" value="listeners.ListenerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestNGRunner" />
+      <item itemvalue="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/annotation.xml" />
+      <item itemvalue="TestNG.ListenerTest" />
+      <item itemvalue="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/testng.xml" />
+      <item itemvalue="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/listeners.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/listeners.xml" />
+        <item itemvalue="TestNG.ListenerTest" />
+        <item itemvalue="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/testng.xml" />
+        <item itemvalue="Application.TestNGRunner" />
+        <item itemvalue="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/annotation.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97517696-d98f-4272-a2d9-4f38173340b9" name="Default Changelist" comment="" />
+      <created>1590953675441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590953675441</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1629" y="351" key="#ParametersExample" timestamp="1591454832602">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1629" y="351" key="#ParametersExample/0.0.2560.1400@0.0.2560.1400" timestamp="1591454832602" />
+    <state x="1512" y="362" key="#Plugins" timestamp="1591034039441">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="362" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1591034039441" />
+    <state x="1512" y="362" key="#Project_Structure" timestamp="1590954595850">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1512" y="362" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1590954595850" />
+    <state x="357" y="374" key="#TestNGRunner" timestamp="1591642342638">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="357" y="374" key="#TestNGRunner/0.0.2560.1400@0.0.2560.1400" timestamp="1591642342638" />
+    <state x="1374" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591041772393">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1374" y="358" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591041772393" />
+    <state x="1649" y="487" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1591041600522">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1649" y="487" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591041600522" />
+    <state x="270" y="629" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591642778510">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="270" y="629" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591642778510" />
+    <state x="436" y="563" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591642686065">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="436" y="563" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1400@0.0.2560.1400" timestamp="1591642686065" />
+    <state x="436" y="584" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1591642780240">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="436" y="584" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1400@0.0.2560.1400" timestamp="1591642780240" />
+    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1591369182923">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1591369182923" />
+    <state width="1234" height="335" key="GridCell.Tab.0.bottom" timestamp="1591648009759">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="335" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591648009759" />
+    <state width="1234" height="335" key="GridCell.Tab.0.center" timestamp="1591648009759">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="335" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591648009759" />
+    <state width="1234" height="335" key="GridCell.Tab.0.left" timestamp="1591648009759">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="335" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591648009759" />
+    <state width="1234" height="335" key="GridCell.Tab.0.right" timestamp="1591648009759">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="335" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591648009759" />
+    <state x="810" y="355" key="Maven.ArtifactSearchDialog" timestamp="1591641507932">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="810" y="355" key="Maven.ArtifactSearchDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1591641507932" />
+    <state x="659" y="140" width="1567" height="956" key="SettingsEditor" timestamp="1590955207745">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="659" y="140" width="1567" height="956" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590955207745" />
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1591641721993">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1591641721993" />
+  </component>
+</project>
