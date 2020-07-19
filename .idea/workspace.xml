@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97517696-d98f-4272-a2d9-4f38173340b9" name="Default Changelist" comment="" />
+    <list default="true" id="97517696-d98f-4272-a2d9-4f38173340b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/annotation1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +17,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -34,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -47,7 +55,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/listeners.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/annotation.xml">
     <configuration name="TestNGRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestNGRunner.TestNGRunner" />
       <module name="SampleTestngProject" />
@@ -117,11 +125,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/annotation.xml" />
         <item itemvalue="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/listeners.xml" />
         <item itemvalue="TestNG.ListenerTest" />
         <item itemvalue="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/testng.xml" />
         <item itemvalue="Application.TestNGRunner" />
-        <item itemvalue="TestNG.C:/Users/nabey/OneDrive/Repos/SampleTestngProject/annotation.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -175,26 +183,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="436" y="584" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1400@0.0.2560.1400" timestamp="1591642780240" />
-    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1591369182923">
+    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1595169710430">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1591369182923" />
-    <state width="1234" height="335" key="GridCell.Tab.0.bottom" timestamp="1591648009759">
+    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1595169710430" />
+    <state width="2517" height="335" key="GridCell.Tab.0.bottom" timestamp="1595177944330">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="335" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1591648009759" />
-    <state width="1234" height="335" key="GridCell.Tab.0.center" timestamp="1591648009759">
+    <state width="2517" height="335" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595177944330" />
+    <state width="2517" height="335" key="GridCell.Tab.0.center" timestamp="1595177944330">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="335" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1591648009759" />
-    <state width="1234" height="335" key="GridCell.Tab.0.left" timestamp="1591648009759">
+    <state width="2517" height="335" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595177944330" />
+    <state width="2517" height="335" key="GridCell.Tab.0.left" timestamp="1595177944329">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="335" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1591648009759" />
-    <state width="1234" height="335" key="GridCell.Tab.0.right" timestamp="1591648009759">
+    <state width="2517" height="335" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595177944329" />
+    <state width="2517" height="335" key="GridCell.Tab.0.right" timestamp="1595177944330">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="335" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1591648009759" />
+    <state width="2517" height="335" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595177944330" />
     <state x="810" y="355" key="Maven.ArtifactSearchDialog" timestamp="1591641507932">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
