@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
 
-    <test name="annotationDemo">
+    <test name="annotationDemo1">
         <classes>
             <class name="ExampleAnnotation1">
                 <methods>
@@ -10,14 +10,17 @@
                     <include name="test2"/>
                 </methods>
             </class>
+        </classes>
+    </test>
 
+    <test name="annotationDemo2">
+        <classes>
             <class name="ExampleAnnotation2">
                 <methods>
                     <include name="test3"/>
                     <include name="test4"/>
                 </methods>
             </class>
-
         </classes>
     </test>
 

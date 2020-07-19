@@ -4,12 +4,12 @@ public class ExampleAnnotation1 {
 
     @BeforeTest
     void beforeTest(){
-        System.out.println("This will execute before test");
+        System.out.println("This will execute before test ExampleAnnotation1");
     }
 
     @AfterTest
     void afterTest(){
-        System.out.println("This will execute after test");
+        System.out.println("This will execute after test ExampleAnnotation1");
     }
 
 @BeforeClass

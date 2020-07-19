@@ -12,6 +12,16 @@ public class ExampleAnnotation2 {
         System.out.println("This will execute after test suite");
     }
 
+    @BeforeTest
+    void beforeTest(){
+        System.out.println("This will execute before test ExampleAnnotation2");
+    }
+
+    @AfterTest
+    void afterTest(){
+        System.out.println("This will execute after test ExampleAnnotation2");
+    }
+
     @BeforeClass
     void beforeClass() {
         System.out.println("This will be executed before the class");
