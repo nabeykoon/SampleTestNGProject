@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97517696-d98f-4272-a2d9-4f38173340b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Extent Reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExcelDataDriven/DataDriven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExtentReportDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ExcelDataDriven/TestSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Log4J/Log4jDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Log4J/Logs/prints.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/data.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/data.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/PropertyReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PropertyReader/PropertyReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PropertyReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ExcelDataDriven/DataDriven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExcelDataDriven/DataDriven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ExcelDataDriven/DataDriven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ExcelDataDriven/DataDriven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/SampleTestngProject.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +51,17 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nabey\OneDrive\Repos\SampleTestngProject\src\main\resources" />
+      <recent name="C:\Users\nabey\OneDrive\Repos\SampleTestngProject" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -67,13 +72,26 @@
       <recent name="C:\Users\nabey\OneDrive\Repos\SampleTestngProject" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataDriven">
+  <component name="RunManager" selected="Application.Log4jDemo">
     <configuration name="DataDriven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExcelDataDriven.DataDriven" />
       <module name="SampleTestngProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ExcelDataDriven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Log4jDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Log4J.Log4jDemo" />
+      <module name="SampleTestngProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Log4J.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,14 +106,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssertionsExample.logoTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExcelDataDriven.TestSample" />
       <module name="SampleTestngProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AssertionsExample" />
-      <option name="METHOD_NAME" value="logoTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExcelDataDriven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -111,32 +130,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExtentReportDemo.logoTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SampleTestngProject" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExtentReportDemo" />
-      <option name="METHOD_NAME" value="logoTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.PropertyReader" />
-      <item itemvalue="TestNG.AssertionsExample.logoTest" />
-      <item itemvalue="TestNG.ExtentReportDemo" />
-      <item itemvalue="TestNG.ExtentReportDemo.logoTest" />
       <item itemvalue="Application.DataDriven" />
+      <item itemvalue="Application.TestSample" />
+      <item itemvalue="TestNG.ExtentReportDemo" />
+      <item itemvalue="Application.Log4jDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Log4jDemo" />
+        <item itemvalue="Application.TestSample" />
         <item itemvalue="Application.DataDriven" />
         <item itemvalue="Application.PropertyReader" />
         <item itemvalue="TestNG.ExtentReportDemo" />
-        <item itemvalue="TestNG.ExtentReportDemo.logoTest" />
-        <item itemvalue="TestNG.AssertionsExample.logoTest" />
       </list>
     </recent_temporary>
   </component>
@@ -165,10 +172,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1512" y="362" key="#Plugins/0.0.2560.1400@0.0.2560.1400" timestamp="1591034039441" />
-    <state x="1082" y="378" key="#Project_Structure" timestamp="1595445515532">
+    <state x="456" y="359" key="#Project_Structure" timestamp="1595786819348">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1082" y="378" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1595445515532" />
+    <state x="456" y="359" key="#Project_Structure/0.0.2560.1400@0.0.2560.1400" timestamp="1595786819348" />
     <state x="357" y="374" key="#TestNGRunner" timestamp="1591642342638">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -193,26 +200,42 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="436" y="584" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1400@0.0.2560.1400" timestamp="1591642780240" />
-    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1595169710430">
+    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1595786647011">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1595169710430" />
-    <state width="1234" height="500" key="GridCell.Tab.0.bottom" timestamp="1595534105875">
+    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1595786647011" />
+    <state width="1234" height="347" key="GridCell.Tab.0.bottom" timestamp="1595788443829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="500" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595534105875" />
-    <state width="1234" height="500" key="GridCell.Tab.0.center" timestamp="1595534105875">
+    <state width="1234" height="347" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595788443829" />
+    <state width="1234" height="347" key="GridCell.Tab.0.center" timestamp="1595788443829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="500" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595534105875" />
-    <state width="1234" height="500" key="GridCell.Tab.0.left" timestamp="1595534105875">
+    <state width="1234" height="347" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595788443829" />
+    <state width="1234" height="347" key="GridCell.Tab.0.left" timestamp="1595788443829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="500" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595534105875" />
-    <state width="1234" height="500" key="GridCell.Tab.0.right" timestamp="1595534105875">
+    <state width="1234" height="347" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595788443829" />
+    <state width="1234" height="347" key="GridCell.Tab.0.right" timestamp="1595788443829">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="500" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595534105875" />
+    <state width="1234" height="347" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595788443829" />
+    <state width="1234" height="491" key="GridCell.Tab.1.bottom" timestamp="1595755434505">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595755434505" />
+    <state width="1234" height="491" key="GridCell.Tab.1.center" timestamp="1595755434505">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595755434505" />
+    <state width="1234" height="491" key="GridCell.Tab.1.left" timestamp="1595755434505">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595755434505" />
+    <state width="1234" height="491" key="GridCell.Tab.1.right" timestamp="1595755434505">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1234" height="491" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595755434505" />
     <state x="810" y="355" key="Maven.ArtifactSearchDialog" timestamp="1591641507932">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -221,9 +244,9 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="659" y="140" width="1567" height="956" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590955207745" />
-    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1591641721993">
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1595786420695">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1591641721993" />
+    <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1595786420695" />
   </component>
 </project>

@@ -1,0 +1,9 @@
+00:02:14.326 [main] ERROR Log4J.Log4jDemo - Error message
+00:02:14.328 [main] FATAL Log4J.Log4jDemo - Fatal message
+00:02:26.932 [main] ERROR Log4J.Log4jDemo - Error message
+00:02:26.934 [main] FATAL Log4J.Log4jDemo - Fatal message
+00:03:14.939 [main] DEBUG Log4J.Log4jDemo - I am debugging
+00:03:14.941 [main] ERROR Log4J.Log4jDemo - Error message
+00:03:14.941 [main] INFO  Log4J.Log4jDemo - Information message
+00:03:14.941 [main] FATAL Log4J.Log4jDemo - Fatal message
+00:04:04.482 [main] ERROR Log4J.Log4jDemo - Error message
