@@ -28,7 +28,7 @@ public class AssertionsExample {
 @Test
     void homePageTitleTest() {
         String actualTitle = driver.getTitle();
-        Assert.assertEquals(actualTitle, "OrangeHRM","Title is not matched with given title");
+        Assert.assertEquals(actualTitle, "OrangeHRM","Title is not matched");
     }
 
     @AfterClass
