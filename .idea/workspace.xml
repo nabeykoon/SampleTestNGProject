@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="97517696-d98f-4272-a2d9-4f38173340b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/ExcelDataDriven/TestSample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Log4J/Log4jDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Log4J/Logs/prints.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ExcelDataDriven/DataDriven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExcelDataDriven/DataDriven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ExcelDataDriven/DataDriven.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ExcelDataDriven/DataDriven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/SampleTestngProject.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +43,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../selenium-grid-demo" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -134,8 +126,8 @@
       <item itemvalue="Application.PropertyReader" />
       <item itemvalue="Application.DataDriven" />
       <item itemvalue="Application.TestSample" />
-      <item itemvalue="TestNG.ExtentReportDemo" />
       <item itemvalue="Application.Log4jDemo" />
+      <item itemvalue="TestNG.ExtentReportDemo" />
     </list>
     <recent_temporary>
       <list>
@@ -200,26 +192,26 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="436" y="584" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2560.1400@0.0.2560.1400" timestamp="1591642780240" />
-    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1595786647011">
+    <state x="1700" y="458" key="FileChooserDialogImpl" timestamp="1595959810573">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1595786647011" />
-    <state width="1234" height="347" key="GridCell.Tab.0.bottom" timestamp="1595788443829">
+    <state x="1700" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1595959810573" />
+    <state width="2517" height="347" key="GridCell.Tab.0.bottom" timestamp="1595795602506">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="347" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595788443829" />
-    <state width="1234" height="347" key="GridCell.Tab.0.center" timestamp="1595788443829">
+    <state width="2517" height="347" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1595795602506" />
+    <state width="2517" height="347" key="GridCell.Tab.0.center" timestamp="1595795602506">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="347" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595788443829" />
-    <state width="1234" height="347" key="GridCell.Tab.0.left" timestamp="1595788443829">
+    <state width="2517" height="347" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1595795602506" />
+    <state width="2517" height="347" key="GridCell.Tab.0.left" timestamp="1595795602506">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="347" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595788443829" />
-    <state width="1234" height="347" key="GridCell.Tab.0.right" timestamp="1595788443829">
+    <state width="2517" height="347" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1595795602506" />
+    <state width="2517" height="347" key="GridCell.Tab.0.right" timestamp="1595795602506">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="347" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595788443829" />
+    <state width="2517" height="347" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1595795602506" />
     <state width="1234" height="491" key="GridCell.Tab.1.bottom" timestamp="1595755434505">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -244,6 +236,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="659" y="140" width="1567" height="956" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1590955207745" />
+    <state x="883" y="307" key="new project wizard" timestamp="1595959856783">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="883" y="307" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1595959856783" />
     <state x="1583" y="320" width="672" height="678" key="search.everywhere.popup" timestamp="1595786420695">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
