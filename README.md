@@ -1,0 +1,1 @@
+This project is created to demonstrate key features and usages of Java Testing framework TestNG
